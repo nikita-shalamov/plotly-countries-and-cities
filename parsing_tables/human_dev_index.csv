@@ -1,0 +1,192 @@
+rank,country,hdi,average_annual_growth
+1,Switzerland,0.962,0.19%
+2,Norway,0.961,0.19%
+3,Iceland,0.959,0.56%
+4,"Hong Kong, China (SAR)",0.952,0.44%
+5,Australia,0.951,0.27%
+6,Denmark,0.948,0.34%
+7,Sweden,0.947,0.36%
+8,Ireland,0.945,0.40%
+9,Germany,0.942,0.16%
+10,Netherlands,0.941,0.24%
+11,Finland,0.940,0.29%
+12,Singapore,0.939,0.29%
+13,Belgium,0.937,0.25%
+14,New Zealand,0.937,0.15%
+15,Canada,0.936,0.25%
+16,Liechtenstein,0.935,0.22%
+17,Luxembourg,0.930,0.18%
+18,United Kingdom,0.929,0.17%
+19,Japan,0.925,0.27%
+20,South Korea,0.925,0.35%
+21,United States,0.921,0.10%
+22,Israel,0.919,0.25%
+23,Malta,0.918,0.58%
+24,Slovenia,0.918,0.28%
+25,Austria,0.916,0.14%
+26,United Arab Emirates,0.911,0.80%
+27,Spain,0.905,0.38%
+28,France,0.903,0.27%
+29,Cyprus,0.896,0.41%
+30,Italy,0.895,0.13%
+31,Estonia,0.890,0.30%
+32,Czechia,0.889,0.20%
+33,Greece,0.887,0.19%
+34,Poland,0.876,0.37%
+35,Bahrain,0.875,0.73%
+36,Lithuania,0.875,0.35%
+37,Saudi Arabia,0.875,0.64%
+38,Portugal,0.866,0.40%
+39,Latvia,0.863,0.42%
+40,Andorra,0.858,0.11%
+41,Croatia,0.858,0.40%
+42,Chile,0.855,0.46%
+43,Qatar,0.855,0.23%
+44,San Marino,0.853,NA[a]
+45,Slovakia,0.848,0.09%
+46,Hungary,0.846,0.20%
+47,Argentina,0.842,0.09%
+48,Turkey,0.838,1.03%
+49,Montenegro,0.832,0.27%
+50,Kuwait,0.831,0.20%
+51,Brunei,0.829,0.01%
+52,Russia,0.822,0.29%
+53,Romania,0.821,0.16%
+54,Oman,0.816,0.32%
+55,Bahamas,0.812,0.00%
+56,Kazakhstan,0.811,0.51%
+57,Trinidad and Tobago,0.810,0.23%
+58,Costa Rica,0.809,0.43%
+59,Uruguay,0.809,0.25%
+60,Belarus,0.808,0.21%
+61,Panama,0.805,0.37%
+62,Malaysia,0.803,0.39%
+63,Georgia,0.802,0.50%
+64,Mauritius,0.802,0.55%
+65,Serbia,0.802,0.41%
+66,Thailand,0.800,0.75%
+67,Albania,0.796,0.49%
+68,Bulgaria,0.795,0.06%
+69,Grenada,0.795,0.15%
+70,Barbados,0.790,0.02%
+71,Antigua and Barbuda,0.788,0.02%
+72,Seychelles,0.785,0.10%
+73,Sri Lanka,0.782,0.54%
+74,Bosnia and Herzegovina,0.780,0.67%
+75,Saint Kitts and Nevis,0.777,0.21%
+76,Iran,0.774,0.35%
+77,Ukraine,0.773,0.11%
+78,North Macedonia,0.770,0.39%
+79,China,0.768,0.97%
+80,Dominican Republic,0.767,0.73%
+81,Moldova,0.767,0.45%
+82,Palau,0.767,0.07%
+83,Cuba,0.764,0.19%
+84,Peru,0.762,0.45%
+85,Armenia,0.759,0.16%
+86,Mexico,0.758,0.15%
+87,Brazil,0.754,0.38%
+88,Colombia,0.752,0.32%
+89,Saint Vincent and the Grenadines,0.751,0.21%
+90,Maldives,0.747,0.75%
+91,Algeria,0.745,0.30%
+92,Azerbaijan,0.745,0.22%
+93,Tonga,0.745,0.40%
+94,Turkmenistan,0.745,0.43%
+95,Ecuador,0.740,0.05%
+96,Mongolia,0.739,0.48%
+97,Egypt,0.731,0.73%
+98,Tunisia,0.731,0.52%
+99,Fiji,0.730,0.20%
+100,Suriname,0.730,0.09%
+101,Uzbekistan,0.727,0.70%
+102,Dominica,0.720,0.11%
+103,Jordan,0.720,0.06%
+104,Libya,0.718,0.26%
+105,Paraguay,0.717,0.42%
+106,Palestine,0.715,0.36%
+107,Saint Lucia,0.715,0.16%
+108,Guyana,0.714,0.77%
+109,South Africa,0.713,0.50%
+110,Jamaica,0.709,0.06%
+111,Samoa,0.707,0.08%
+112,Gabon,0.706,0.56%
+113,Lebanon,0.706,0.79%
+114,Indonesia,0.705,0.55%
+115,Vietnam,0.703,0.53%
+116,Philippines,0.699,0.33%
+117,Botswana,0.693,0.44%
+118,Bolivia,0.692,0.40%
+119,Kyrgyzstan,0.692,0.38%
+120,Venezuela,0.691,0.80%
+121,Iraq,0.686,0.63%
+122,Tajikistan,0.685,0.68%
+123,Belize,0.683,0.31%
+124,Morocco,0.683,1.14%
+125,El Salvador,0.675,0.22%
+126,Nicaragua,0.667,0.76%
+127,Bhutan,0.666,1.25%
+128,Cape Verde,0.662,0.25%
+129,Bangladesh,0.661,1.64%
+130,Tuvalu,0.641,0.36%
+131,Marshall Islands,0.639,NA[a]
+132,India,0.633,0.88%
+133,Ghana,0.632,0.88%
+134,Micronesia,0.628,0.04%
+135,Guatemala,0.627,0.33%
+136,Kiribati,0.624,0.53%
+137,Honduras,0.621,0.36%
+138,Sao Tome and Principe,0.618,1.00%
+139,Namibia,0.615,0.46%
+140,Laos,0.607,0.88%
+141,East Timor,0.607,0.18%
+142,Vanuatu,0.607,0.24%
+143,Nepal,0.602,0.94%
+144,Eswatini,0.597,1.57%
+145,Equatorial Guinea,0.596,0.26%
+146,Cambodia,0.593,0.85%
+147,Zimbabwe,0.593,1.34%
+148,Angola,0.586,1.27%
+149,Myanmar,0.585,1.26%
+150,Syria,0.577,1.21%
+151,Cameroon,0.576,1.06%
+152,Kenya,0.575,0.49%
+153,Republic of the Congo,0.571,0.16%
+154,Zambia,0.565,0.60%
+155,Solomon Islands,0.564,0.23%
+156,Comoros,0.558,0.64%
+157,Papua New Guinea,0.558,1.02%
+158,Mauritania,0.556,0.79%
+159,Ivory Coast,0.550,1.38%
+160,Tanzania,0.549,0.98%
+161,Pakistan,0.544,0.68%
+162,Togo,0.539,1.12%
+163,Haiti,0.535,1.94%
+164,Nigeria,0.535,0.95%
+165,Rwanda,0.534,0.80%
+166,Benin,0.525,0.59%
+167,Uganda,0.525,0.41%
+168,Lesotho,0.514,0.88%
+169,Malawi,0.512,1.06%
+170,Senegal,0.511,0.80%
+171,Djibouti,0.509,0.96%
+172,Sudan,0.508,0.40%
+173,Madagascar,0.501,0.16%
+174,Gambia,0.500,0.76%
+175,Ethiopia,0.498,1.74%
+176,Eritrea,0.492,0.55%
+177,Guinea-Bissau,0.483,0.79%
+178,Liberia,0.481,0.41%
+179,Democratic Republic of the Congo,0.479,1.01%
+180,Afghanistan,0.478,0.59%
+181,Sierra Leone,0.477,1.01%
+182,Guinea,0.465,1.04%
+183,Yemen,0.455,1.03%
+184,Burkina Faso,0.449,1.72%
+185,Mozambique,0.446,0.95%
+186,Mali,0.428,0.53%
+187,Burundi,0.426,0.46%
+188,Central African Republic,0.404,0.75%
+189,Niger,0.400,1.54%
+190,Chad,0.394,0.77%
+191,South Sudan,0.385,1.00%
