@@ -1,0 +1,232 @@
+,rank,city,city_eng,country,city_lat_geo,city_lon_geo
+0,1,Vienna,Vienna,Austria,48.2083537,16.3725042
+1,2,Zürich,Zurich,Switzerland,47.3744489,8.5410422
+2,3,Vancouver,Vancouver,Canada,49.2608724,-123.113952
+3,4,Munich,Munich,Germany,48.1371079,11.5753822
+4,5,Auckland,Auckland,New Zealand,-36.852095,174.7631803
+5,6,Düsseldorf,Dusseldorf,Germany,51.2254018,6.7763137
+6,7,Frankfurt,Frankfurt,Germany,50.1106444,8.6820917
+7,8,Copenhagen,Copenhagen,Denmark,55.6867243,12.5700724
+8,9,Geneva,Geneva,Switzerland,46.2017559,6.1466014
+9,10,Basel,Basel,Switzerland,47.5581077,7.5878261
+10,11,Sydney,Sydney,Australia,-33.8698439,151.2082848
+11,12,Amsterdam,Amsterdam,Netherlands,52.3727598,4.8936041
+12,13,Berlin,Berlin,Germany,52.5170365,13.3888599
+13,14,Bern,Bern,Switzerland,46.9482713,7.4514512
+14,15,Wellington,Wellington,New Zealand,-41.2887953,174.7772114
+15,16,Toronto,Toronto,Canada,43.6534817,-79.3839347
+16,17,Melbourne,Melbourne,Australia,-37.8142176,144.9631608
+17,18,Luxembourg,Luxembourg,Luxembourg,49.8158683,6.1296751
+18,19,Ottawa,Ottawa,Canada,45.4208777,-75.6901106
+19,20,Hamburg,Hamburg,Germany,53.550341,10.000654
+20,21,Perth,Perth,Australia,-31.9558964,115.8605801
+21,22,Montréal,Montreal,Canada,45.5031824,-73.5698065
+22,23,Nuremburg,Nuremburg,Germany,40.9409094,-76.1724249
+23,24,Stockholm,Stockholm,Sweden,59.3251172,18.0710935
+24,25,Oslo,Oslo,Norway,59.9133301,10.7389701
+25,26,Singapore,Singapore,Singapore,1.357107,103.8194992
+26,27,Stuttgart,Stuttgart,Germany,48.7784485,9.1800132
+27,28,Brussels,Brussels,Belgium,50.8465573,4.351697
+28,29,Adelaide,Adelaide,Australia,-34.9281805,138.5999312
+29,30,Canberra,Canberra,Australia,-35.2975906,149.1012676
+30,31,Helsinki,Helsinki,Finland,60.1674881,24.9427473
+31,32,Calgary,Calgary,Canada,51.0460954,-114.065465
+32,33,Dublin,Dublin,Ireland,53.3498006,-6.2602964
+33,34,San Francisco,San Francisco,United States,37.7790262,-122.419906
+34,35,Brisbane,Brisbane,Australia,-27.4689682,153.0234991
+35,36,Boston,Boston,United States,42.3554334,-71.060511
+36,37,Lisbon,Lisbon,Portugal,38.7077507,-9.1365919
+37,38,Honolulu,Honolulu,United States,21.304547,-157.855676
+38,39,Paris,Paris,France,48.8588897,2.3200410217200766
+39,40,Lyon,Lyon,France,45.7578137,4.8320114
+40,41,Milan,Milan,Italy,45.4641943,9.1896346
+41,42,London,London,United Kingdom,51.5073219,-0.1276474
+42,43,Barcelona,Barcelona,Spain,41.3828939,2.1774322
+43,44,New York,New York,United States,40.7127281,-74.0060152
+44,45,Edinburgh,Edinburgh,United Kingdom,55.9533456,-3.1883749
+45,46,Madrid,Madrid,Spain,40.4167047,-3.7035825
+46,47,Seattle,Seattle,United States,47.6038321,-122.330062
+47,48,Glasgow,Glasgow,United Kingdom,55.8609825,-4.2488787
+48,49,Kobe,Kobe,Japan,34.6932379,135.1943764
+49,50,Tokyo,Tokyo,Japan,35.6828387,139.7594549
+50,51,Birmingham,Birmingham,United Kingdom,52.4796992,-1.9026911
+51,52,Chicago,Chicago,United States,41.8755616,-87.6244212
+52,53,Washington,Washington,United States,38.8950368,-77.0365427
+53,54,Philadelphia,Philadelphia,United States,39.9527237,-75.1635262
+54,55,Yokohama,Yokohama,Japan,35.444991,139.636768
+55,56,Rome,Rome,Italy,41.8933203,12.4829321
+56,57,Aberdeen,Aberdeen,United Kingdom,57.1482429,-2.0928095
+57,58,Osaka,Osaka,Japan,34.6198813,135.490357
+58,59,Pittsburgh,Pittsburgh,United States,40.4416941,-79.9900861
+59,60,Leipzig,Leipzig,Germany,51.3406321,12.3747329
+60,61,Minneapolis,Minneapolis,United States,44.9772995,-93.2654692
+61,62,Nagoya,Nagoya,Japan,35.1851045,136.8998438
+62,63,Dallas,Dallas,United States,32.7762719,-96.7968559
+63,64,Belfast,Belfast,United Kingdom,54.596391,-5.9301829
+64,65,Atlanta,Atlanta,United States,33.7489924,-84.3902644
+65,66,Houston,Houston,United States,29.7589382,-95.3676974
+66,67,Los Angeles,Los Angeles,United States,34.0536909,-118.242766
+67,68,Miami,Miami,United States,25.7741728,-80.19362
+68,69,Prague,Prague,Czech Republic,50.0874654,14.4212535
+69,70,St. Louis,St. Louis,United States,38.6319657,-90.2428756
+70,71,Hong Kong,Hong Kong,Hong Kong,22.2793278,114.1628131
+71,72,Pointe-à-Pitre,Pointe-a-Pitre,France,16.2408636,-61.5334077
+72,73,Detroit,Detroit,United States,42.3315509,-83.0466403
+73,74,Ljubljana,Ljubljana,Slovenia,46.0500268,14.5069289
+74,75,Dubai,Dubai,United Arab Emirates,25.074282349999997,55.18853865430702
+75,76,Budapest,Budapest,Hungary,47.4979937,19.0403594
+76,77,Seoul,Seoul,South Korea,37.5666791,126.9782914
+77,78,Abu Dhabi,Abu Dhabi,United Arab Emirates,24.4538352,54.3774014
+78,79,Montevideo,Montevideo,Uruguay,-34.9058916,-56.1913095
+79,80,Bratislava,Bratislava,Slovakia,48.1516988,17.1093063
+80,81,Vilnius,Vilnius,Lithuania,54.6870458,25.2829111
+81,82,Warsaw,Warsaw,Poland,52.2337172,21.071432235636493
+82,83,Port Louis,Port Louis,Mauritius,-20.1624522,57.5028044
+83,84,Taipei,Taipei,Taiwan,25.0375198,121.5636796
+84,85,Kuala Lumpur,Kuala Lumpur,Malaysia,3.1516964,101.6942371
+85,86,Limassol,Limassol,Cyprus,34.6852901,33.0332657
+86,87,Tallinn,Tallinn,Estonia,59.4372155,24.7453688
+87,88,Durban,Durban,South Africa,-29.861825,31.009909
+88,89,Athens,Athens,Greece,37.9839412,23.7283052
+89,90,Riga,Riga,Latvia,56.9493977,24.1051846
+90,91,Buenos Aires,Buenos Aires,Argentina,-34.6075682,-58.4370894
+91,92,San Juan,San Juan,Puerto Rico,18.465299,-66.116666
+92,93,Santiago,Santiago,Chile,9.8694792,-83.7980749
+93,94,Busan,Busan,South Korea,35.1799528,129.0752365
+94,95,Cape Town,Cape Town,South Africa,-33.928992,18.417396
+95,96,Johannesburg,Johannesburg,South Africa,-26.205,28.049722
+96,97,Panama City,Panama City,Panama,30.1600827,-85.6545729
+97,98,Zagreb,Zagreb,Croatia,45.84264135,15.962231476593626
+98,99,Victoria,Victoria,Seychelles,-36.5986096,144.6780052
+99,100,Wroclaw,Wroclaw,Poland,51.1089776,17.0326689
+100,101,Johor Bahru,Johor Bahru,Malaysia,1.503555,103.7495586
+101,102,Taichung,Taichung,Taiwan,24.163162,120.6478282
+102,103,Shanghai,Shanghai,China,31.2322758,121.4692071
+103,104,Tel Aviv,Tel Aviv,Israel,32.0852997,34.7818064
+104,105,Muscat,Muscat,Oman,23.61515,58.5912467
+105,106,Bandar Seri Begawan,Bandar Seri Begawan,Brunei Darussalam,4.8895453,114.9417574
+106,107,Brasilia,Brasilia,Brazil,-10.3333333,-53.2
+107,108,San José,San Jose,Costa Rica,37.3361663,-121.890591
+108,109,Bucharest,Bucharest,Romania,44.4361414,26.1027202
+109,110,Noumea,Noumea,New Caledonia,-22.2745264,166.442419
+110,111,Doha,Doha,Qatar,25.2856329,51.5264162
+111,112,Nassau,Nassau,Bahamas,25.0782266,-77.3383438
+112,113,Monterrey,Monterrey,Mexico,25.6802019,-100.315258
+113,114,Tunis,Tunis,Tunisia,33.8439408,9.400138
+114,115,Asunción,Asuncion,Paraguay,-25.2800459,-57.6343814
+115,116,Sofia,Sofia,Bulgaria,-15.2538402,48.2562163
+116,117,Rabat,Rabat,Morocco,34.022405,-6.834543
+117,118,Rio de Janeiro,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
+118,119,São Paulo,Sao Paulo,Brazil,-23.5506507,-46.6333824
+119,120,Beijing,Beijing,China,39.906217,116.3912757
+120,121,Amman,Amman,Jordan,31.9515694,35.9239625
+121,122,Guangzhou,Guangzhou,China,23.1301964,113.2592945
+122,123,Quito,Quito,Ecuador,-0.2201641,-78.5123274
+123,124,Casablanca,Casablanca,Morocco,33.5950627,-7.6187768
+124,125,Lima,Lima,Peru,-12.0621065,-77.0365256
+125,126,Kuwait City,Kuwait City,Kuwait,29.3796532,47.9734174
+126,127,Manaus,Manaus,Brazil,-3.1316333,-59.9825041
+127,128,Bogotá,Bogota,Colombia,4.6534649,-74.0836453
+128,129,Mexico City,Mexico City,Mexico,19.4326296,-99.1331785
+129,130,Istanbul,Istanbul,Türkiye,41.0091982,28.9662187
+130,131,Windhoek,Windhoek,Namibia,-22.5776104,17.0772739
+131,132,Shenzhen,Shenzhen,China,22.5445741,114.0545429
+132,133,Bangkok,Bangkok,Thailand,13.7524938,100.4935089
+133,134,Chengdu,Chengdu,China,30.6598628,104.0633717
+134,135,Santo Domingo,Santo Domingo,Dominican Republic,18.4801972,-69.942111
+135,136,Manama,Manama,Bahrain,26.2235041,50.5822436
+136,137,Manila,Manila,Philippines,14.5948914,120.9782618
+137,138,Colombo,Colombo,Sri Lanka,6.9387469,79.8541134
+138,139,Belgrade,Belgrade,Serbia,44.8178131,20.4568974
+139,140,Nanjing,Nanjing,China,32.0437694,118.7788749
+140,141,Gaborone,Gaborone,Botswana,-24.6581357,25.9088474
+141,142,Jakarta,Jakarta,Indonesia,-6.1753942,106.827183
+142,143,Hyderabad,Hyderabad,India,17.360589,78.4740613
+143,144,Pune,Pune,India,18.521428,73.8544541
+144,145,Xian,Xian,China,38.1904931,116.1191021
+145,146,Qingdao,Qingdao,China,36.0638034,120.3781372
+146,147,Port of Spain,Port of Spain,Trinidad and Tobago,10.6572678,-61.5180173
+147,148,Chongqing,Chongqing,China,29.5647398,106.5478767
+148,149,Bengaluru,Bengaluru,India,12.9767936,77.590082
+149,150,Lusaka,Lusaka,Zambia,-15.4164124,28.2824793
+150,151,Chennai,Chennai,India,13.0836939,80.270186
+151,152,Kingston,Kingston,Jamaica,17.9712148,-76.7928128
+152,153,Ho Chi Minh City,Ho Chi Minh City,Vietnam,10.776325,106.7012016
+153,154,Mumbai,Mumbai,India,19.0785451,72.878176
+154,155,Hanoi,Hanoi,Vietnam,21.0294498,105.8544441
+155,156,La Paz,La Paz,Bolivia,-16.4955455,-68.1336229
+156,157,Sarajevo,Sarajevo,Bosnia and Herzegovina,43.8519774,18.3866868
+157,158,Shenyang,Shenyang,China,41.6749893,123.458674
+158,159,Guatemala City,Guatemala City,Guatemala,14.6222328,-90.5185188
+159,160,Kolkata,Kolkata,India,22.5726723,88.3638815
+160,161,Skopje,Skopje,North Macedonia,41.9960924,21.4316495
+161,162,New Delhi,New Delhi,India,28.6138954,77.2090057
+162,163,Dakar,Dakar,Senegal,14.693425,-17.447938
+163,164,Riyadh,Riyadh,Saudi Arabia,24.638916,46.7160104
+164,165,Accra,Accra,Ghana,5.5571096,-0.2012376
+165,166,Libreville,Libreville,Gabon,0.390002,9.454001
+166,167,Moscow,Moscow,Russia,55.7504461,37.6174943
+167,168,Jeddah,Jeddah,Saudi Arabia,21.5810088,39.1653612
+168,169,Jilin,Jilin,China,42.9995032,125.9816054
+169,170,Yerevan,Yerevan,Armenia,40.1776245,44.5126174
+170,171,Vientiane,Vientiane,Laos,17.9640988,102.6133707
+171,172,Kampala,Kampala,Uganda,0.3177137,32.5813539
+172,173,Kyiv,Kyiv,Ukraine,50.4500336,30.5241361
+173,174,St. Petersburg,St. Petersburg,Russia,27.7703796,-82.6695085
+174,175,Tirana,Tirana,Albania,41.3305141,19.825562857582966
+175,176,San Salvador,San Salvador,El Salvador,13.6989939,-89.1914249
+176,177,Cairo,Cairo,Egypt,30.0443879,31.2357257
+177,178,Almaty,Almaty,Kazakhstan,43.2363924,76.9457275
+178,179,Banjul,Banjul,Gambia,13.4410165,-16.56275092072591
+179,180,Managua,Managua,Nicaragua,12.1544035,-86.2737642
+180,181,Blantyre,Blantyre,Malawi,-15.7862543,35.0035694
+181,182,Cotonou,Cotonou,Benin,6.3676953,2.4252507
+182,183,Maputo,Maputo,Mozambique,-25.966213,32.56745
+183,184,Beirut,Beirut,Lebanon,33.8959203,35.47843
+184,185,Algiers,Algiers,Algeria,36.7753606,3.0601882
+185,186,Nairobi,Nairobi,Kenya,-1.2832533,36.8172449
+186,187,Tbilisi,Tbilisi,Georgia,41.6934591,44.8014495
+187,188,Minsk,Minsk,Belarus,53.9024716,27.5618225
+188,189,Djibouti,Djibouti,Djibouti,11.8145966,42.8453061
+189,190,Tegucigalpa,Tegucigalpa,Honduras,14.1057433,-87.2040052
+190,191,Kigali,Kigali,Rwanda,-1.950851,30.061507
+191,192,Havana,Havana,Cuba,23.135305,-82.3589631
+192,193,Yaounde,Yaounde,Cameroon,3.8689867,11.5213344
+193,194,Islamabad,Islamabad,Pakistan,33.6938118,73.0651511
+194,195,Baku,Baku,Azerbaijan,40.3755885,49.8328009
+195,196,Phnom Penh,Phnom Penh,Cambodia,11.568271,104.9224426
+196,197,Douala,Douala,Cameroon,4.0429408,9.706203
+197,198,Dar es Salaam,Dar es Salaam,Tanzania,-6.8160837,39.2803583
+198,199,Luanda,Luanda,Angola,-8.8272699,13.2439512
+199,200,Tehran,Tehran,Iran,35.6892523,51.3896004
+200,201,Karachi,Karachi,Pakistan,24.8546842,67.0207055
+201,202,Caracas,Caracas,Venezuela,10.4813175,-66.8796057
+202,203,Yangon,Yangon,Myanmar,16.7967129,96.1609916
+203,204,Lome,Lome,Togo,6.130419,1.215829
+204,205,Tashkent,Tashkent,Uzbekistan,41.3123363,69.2787079
+205,206,Bishkek,Bishkek,Kyrgyz Republic,42.8765615,74.6070079
+206,207,Lahore,Lahore,Pakistan,31.5656822,74.3141829
+207,208,Abidjan,Abidjan,Cote d'Ivoire,5.320357,-4.016107
+208,209,Addis Ababa,Addis Ababa,Ethiopia,9.0107934,38.7612525
+209,210,Harare,Harare,Zimbabwe,-17.831773,31.045686
+210,211,Ashgabat,Ashgabat,Turkmenistan,37.9404648,58.3823487
+211,212,Lagos,Lagos,Nigeria,6.4550575,3.3941795
+212,213,Abuja,Abuja,Nigeria,9.0643305,7.4892974
+213,214,Antananarivo,Antananarivo,Madagascar,-18.9100122,47.5255809
+214,215,Dushanbe,Dushanbe,Tajikistan,38.5425835,68.81521423589763
+215,216,Ouagadougou,Ouagadougou,Burkina Faso,12.3681873,-1.5270944
+216,217,Dhaka,Dhaka,Bangladesh,23.7644025,90.389015
+217,218,Tripoli,Tripoli,Libya,32.896672,13.1777923
+218,219,Niamey,Niamey,Niger,13.524834,2.109823
+219,220,Bamako,Bamako,Mali,12.61326555,-7.984739136241295
+220,221,Nouakchott,Nouakchott,Mauritania,18.061891799999998,-15.931148157832908
+221,222,Conakry,Conakry,Guinea,9.5170602,-13.6998434
+222,223,Kinshasa,Kinshasa,DR Congo,-4.3217055,15.3125974
+223,224,Brazzaville,Brazzaville,Congo Republic,-4.2694407,15.2712256
+224,225,Damascus,Damascus,Syria,33.5130695,36.3095814
+225,226,N'Djamena,N'Djamena,Chad,12.1191543,15.0502758
+226,227,Khartoum,Khartoum,Sudan,15.5635972,32.5349123
+227,228,Port au Prince,Port au Prince,Haiti,18.547327,-72.3395928
+228,229,Sana'a,Sana'a,Yemen,15.3538569,44.2058841
+229,230,Bangui,Bangui,Central African Republic,4.3907153,18.5509126
+230,231,Baghdad,Baghdad,Iraq,33.3061701,44.3872213

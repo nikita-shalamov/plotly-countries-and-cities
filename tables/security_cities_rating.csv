@@ -1,0 +1,61 @@
+0,overall_rating,overall_rating_country,overall_score,digital_sec,score1,health_sec,score2,infrastucture_sec,score3,personal_sec,score4,environmental_sec,score5
+1,Copenhagen,Denmark,82.4,Sydney,83.2,Tokyo,87.7,Hong Kong,93.4,Copenhagen,86.4,Wellington,91.7
+2,Toronto,Canada,82.2,Singapore,82.8,Singapore,84.1,Singapore,92.1,Amsterdam,80.5,Toronto,90.3
+3,Singapore,Singapore,80.7,Copenhagen,82.2,Hong Kong,84.0,Copenhagen,89.0,Frankfurt,80.3,Washington DC,87.6
+4,Sydney,Australia,80.1,Los Angeles,82.0,Melbourne,81.9,Toronto,88.6,Stockholm,79.7,Bogota,85.5
+5,Tokyo,Japan,80.0,San Francisco,82.0,Osaka,81.8,Tokyo,87.7,Brussels,79.2,Milan,84.9
+6,Amsterdam,Netherlands,79.3,New York,81.6,Seoul,81.1,Stockholm,87.3,Paris,79.0,Copenhagen,84.5
+7,Wellington,New Zealand,79.0,Amsterdam,79.3,Toronto,80.0,Osaka,86.6,Wellington,78.3,Stockholm,83.7
+8,Hong Kong,China,78.6,Melbourne,78.3,London,78.8,Washington DC,86.5,Toronto,77.2,Rio de Janeiro,83.3
+9,Melbourne,Australia,78.6,Wellington,77.3,Barcelona,78.1,Chicago,84.5,Lisbon,76.9,Zurich,82.3
+10,Stockholm,Sweden,78.0,Chicago,76.7,Sydney,77.7,Sydney,84.5,Madrid,76.6,Kuala Lumpur,81.0
+11,Barcelona,Spain,77.8,Frankfurt,76.7,San Francisco,77.3,New York,84.4,Sydney,76.3,Amsterdam,80.9
+12,New York,United States,77.8,London,76.6,Abu Dhabi,76.5,Wellington,84.2,Barcelona,75.8,New York,80.9
+13,Frankfurt,Germany,77.7,Dallas,76.5,Dubai,75.5,Zurich,84.2,Singapore,74.5,Tokyo,80.6
+14,Washington DC,United States,77.4,Toronto,75.0,New York,75.2,Frankfurt,84.1,London,74.4,Taipei,80.3
+15,London,United Kingdom,77.2,Zurich,74.8,Chicago,74.8,Madrid,84.0,Zurich,73.4,Quito,80.1
+16,San Francisco,United States,77.2,Barcelona,72.9,Los Angeles,74.8,Melbourne,84.0,Tokyo,73.3,Sydney,79.0
+17,Osaka,Japan,76.7,Madrid,72.9,Dallas,74.6,Barcelona,83.7,Osaka,73.2,Buenos Aires,78.8
+18,Los Angeles,United States,76.5,Stockholm,72.6,Washington DC,74.0,San Francisco,83.6,Melbourne,73.0,Barcelona,78.4
+19,Zurich,Switzerland,76.3,Washington DC,72.1,Beijing,73.6,Amsterdam,83.5,Taipei,70.9,San Francisco,78.3
+20,Chicago,United States,75.0,Tokyo,71.0,Shanghai,73.6,Seoul,83.0,Santiago,70.7,Rome,78.0
+21,Madrid,Spain,74.7,Hong Kong,70.1,Taipei,73.5,Dallas,82.9,Hong Kong,70.4,Dallas,77.2
+22,Dallas,United States,74.5,Paris,69.4,Bangkok,73.1,Los Angeles,82.9,Seoul,69.9,Osaka,77.0
+23,Paris,France,74.3,Brussels,68.5,Amsterdam,72.5,London,82.7,Rome,69.4,Sao Paulo,76.7
+24,Taipei,Taiwan,74.0,Abu Dhabi,66.8,Frankfurt,72.3,Paris,82.6,Milan,68.7,Los Angeles,76.3
+25,Seoul,South Korea,73.8,Dubai,66.8,Istanbul,71.9,Taipei,82.4,Abu Dhabi,67.0,Melbourne,76.1
+26,Brussels,Belgium,73.6,Milan,65.1,Copenhagen,70.0,Brussels,82.3,Dubai,67.0,Frankfurt,74.9
+27,Milan,Italy,71.3,Osaka,64.8,Kuwait city,69.7,Shanghai,80.3,New York,66.9,Hong Kong,74.8
+28,Lisbon,Portugal,70.1,Lisbon,64.3,Moscow,68.6,Lisbon,77.4,Washington DC,66.8,Lisbon,74.3
+29,Rome,Italy,69.4,Santiago,64.2,Paris,68.6,Abu Dhabi,77.3,Los Angeles,66.6,Chicago,74.0
+30,Shanghai,China,67.9,Taipei,63.2,Riyadh,68.6,Milan,76.6,Chicago,64.9,Jakarta,73.8
+31,Abu Dhabi,United Arab Emirates,66.9,Seoul,62.1,Brussels,67.8,Beijing,76.5,San Francisco,64.9,London,73.7
+32,Kuala Lumpur,Malaysia,66.6,Rome,60.1,Buenos Aires,67.4,Dubai,76.0,Dallas,61.4,Madrid,73.1
+33,Santiago,Costa Rica,65.3,Buenos Aires,60.0,Madrid,67.0,Rome,74.5,Kuala Lumpur,60.1,Seoul,72.9
+34,Buenos Aires,Argentina,64.9,Moscow,59.4,Zurich,66.6,Moscow,74.2,Beijing,59.5,Mexico City,72.1
+35,Dubai,United Arab Emirates,64.6,Kuala Lumpur,59.1,Santiago,66.5,Istanbul,72.1,Shanghai,59.0,Paris,71.7
+36,Beijing,China,63.8,Istanbul,58.7,Stockholm,66.5,Santiago,70.8,Rio de Janeiro,58.4,Brussels,70.4
+37,Istanbul,Türkiye,62.9,Mexico City,57.2,Rome,65.2,Kuala Lumpur,69.0,Kuwait city,58.0,Singapore,69.9
+38,Moscow,Russia,62.5,Shanghai,57.2,Kuala Lumpur,64.0,Sao Paulo,66.5,Ho Chi Minh City,56.5,Shanghai,69.3
+39,Rio de Janeiro,Brazil,61.8,Rio de Janeiro,53.8,Ho Chi Minh City,63.9,Bangkok,65.7,Buenos Aires,55.9,Lagos,68.8
+40,Sao Paulo,Brazil,61.7,Sao Paulo,53.8,New Delhi,63.6,Jakarta,63.7,Sao Paulo,53.9,Ho Chi Minh City,66.4
+41,Bogota,Colombia,60.8,Casablanca,53.7,Wellington,63.4,Rio de Janeiro,62.9,New Delhi,52.8,Manila,65.9
+42,Mexico City,Mexico,60.3,Johannesburg,53.1,Milan,61.3,Buenos Aires,62.6,Mexico City,52.5,Johannesburg,65.6
+43,Bangkok,Thailand,60.2,Riyadh,53.1,Johannesburg,61.0,Mexico City,62.1,Riyadh,51.8,Bangkok,62.9
+44,Quito,Ecuador,58.8,Bangkok,52.7,Mumbai,60.8,New Delhi,59.8,Johannesburg,51.7,Istanbul,62.8
+45,Ho Chi Minh City,Vietnam,58.5,Beijing,52.2,Bogota,59.0,Ho Chi Minh City,59.5,Bogota,50.9,Moscow,60.5
+46,Jakarta,Indonesia,56.4,Bogota,51.6,Jakarta,58.9,Quito,59.1,Quito,50.9,Mumbai,60.1
+47,Johannesburg,South Africa,56.2,Baku,48.9,Quito,58.3,Baku,58.6,Moscow,49.9,Dhaka,58.2
+48,New Delhi,India,56.1,New Delhi,47.5,Sao Paulo,57.7,Mumbai,57.3,Istanbul,48.8,Beijing,57.0
+49,Riyadh,Saudi Arabia,55.1,Manila,47.4,Lisbon,57.5,Bogota,57.0,Casablanca,48.5,New Delhi,56.8
+50,Mumbai,India,54.4,Lagos,46.4,Mexico City,57.4,Riyadh,55.2,Mumbai,48.2,Santiago,54.3
+51,Manila,Philippines,52.5,Ho Chi Minh City,46.2,Casablanca,51.4,Kuwait city,53.4,Cairo,48.1,Abu Dhabi,46.7
+52,Baku,Azerbaijan,49.8,Quito,45.7,Dhaka,50.9,Manila,52.9,Jakarta,47.6,Baku,46.7
+53,Kuwait city,Kuwait,49.4,Mumbai,45.4,Rio de Janeiro,50.7,Casablanca,52.2,Baku,47.3,Riyadh,46.7
+54,Dhaka,Bangladesh,48.9,Cairo,43.6,Manila,49.9,Johannesburg,49.8,Dhaka,46.6,Yangon,45.3
+55,Casablanca,Morocco,48.2,Kuwait city,43.6,Karachi,48.4,Dhaka,49.6,Bangkok,46.4,Caracas,41.9
+56,Lagos,Nigeria,45.0,Dhaka,39.0,Baku,47.3,Cairo,47.2,Manila,46.4,Dubai,37.7
+57,Cairo,Egypt,43.7,Karachi,38.5,Cairo,45.6,Karachi,43.0,Caracas,46.1,Karachi,35.4
+58,Caracas,Venezuela,40.5,Jakarta,38.0,Yangon,44.6,Yangon,40.5,Yangon,39.2,Casablanca,35.1
+59,Karachi,Pakistan,39.7,Caracas,37.4,Lagos,43.7,Caracas,38.0,Lagos,33.7,Cairo,33.8
+60,Yangon,Myanmar,39.5,Yangon,28.1,Caracas,39.0,Lagos,32.4,Karachi,33.3,Kuwait city,22.0
